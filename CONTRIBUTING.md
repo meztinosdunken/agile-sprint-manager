@@ -11,7 +11,7 @@ Thank you for your interest in contributing to Agile Sprint Manager! Please foll
    - `git commit -m 'Add a clear and concise description of your feature or fix here'`
 5. **Push to the branch**
    - `git push origin feature/YourFeature`
-6. **Open a pull request**
+6. **Open a pull request** with a detailed description of your changes and use the provided pull request template.
 
 ## Guidelines
 - Ensure your code follows the existing code style.
