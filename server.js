@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Agile Sprint Manager API!');
+  res.send('Welcome to the Agile Sprint Manager API! Enjoy managing your sprints.');
 });
 
 io.on('connection', (socket) => {
