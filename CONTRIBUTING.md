@@ -8,7 +8,7 @@ Thank you for your interest in contributing to Agile Sprint Manager! Please foll
    - `git checkout -b feature/YourFeature`
 3. **Make your changes**
 4. **Commit your changes**
-   - `git commit -m 'Add your feature description here'`
+   - `git commit -m 'Add a clear and concise description of your feature or fix here'`
 5. **Push to the branch**
    - `git push origin feature/YourFeature`
 6. **Open a pull request**
