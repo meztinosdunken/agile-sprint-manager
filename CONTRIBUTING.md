@@ -15,7 +15,7 @@ Thank you for your interest in contributing to Agile Sprint Manager! Please foll
    - **It is crucial to provide a comprehensive description that outlines what was changed and why.**
 
 ## Guidelines
-- Ensure your code follows the existing code style.
+- Ensure your code follows the existing code style to maintain consistency across the project.
 - Write clear and descriptive commit messages, including the purpose of the change.
 - Update documentation if needed.
 
